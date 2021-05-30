@@ -30,7 +30,7 @@ This goes into the Array ```"list": [```, don't delete any of the profiles in th
                 "name": "Aperture",
                 "tabTitle": "Aperture Science",
                 "useAcrylic": true,
-                "padding": "40, 24, 40, 24",
+                "padding": "40, 24, 24, 24",
             },
 ```
 This goes into the Array ```"schemes": [```, don't delete any of the schemes in there, just paste this in front of the other schemes.
