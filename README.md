@@ -10,7 +10,7 @@ I made this based on the settings posted by reddit user [u/zushiba](https://redd
 1. Download the Image Files from this repository *(you do not need the files inside of the "Original" Folder, check out that for the original theme that this is based on)*, and move them to ```%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState```
 2. To obtain the GIF for the background, refer to the section **How to obtain the animated background**
 3. Open the Windows terminal and open the settings menu by either pressing <kbd>CTRL</kbd> and <kbd>,</kbd> or by pressing the little drop-down menu next to the tab and selecting "Settings".
-4. Press the "Open JSON-File" button in the bottom right of the settings Panel, and open it with an editor of your choice
+4. Press the "Open JSON-File" button in the bottom right of the settings Panel, and open it with an editor of your choice *(Alternatively, I have uploaded my own JSON-File if you would like to skip the work of pasting this in yourself)*.
 ![image](https://user-images.githubusercontent.com/23218251/120101803-3707db80-c148-11eb-9d28-97c768956fd0.png)
 5. Paste the following code into the appropriate spaces in the JSON-File:
 This goes into the Array ```"list": [```, don't delete any of the profiles in there, just paste this in front of the other profiles.
