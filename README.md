@@ -1,5 +1,5 @@
 # ApertureTerminal
-Settings to make your Windows-Terminal Portal 2 themed!
+Some settings to make your Windows-Terminal Portal 2 themed!
 The background is taken from Portal 2's files, and as I don't know about Valve's Copyright policies very well I've decided to not include the GIF on here unless I get granted permission to do that by Valve. 
 
 # Inspiration
