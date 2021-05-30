@@ -80,3 +80,6 @@ Video aspect: Do not change
 5. Click "Convert Now!" and download the converted file.
 6. Rename the file to "p2terminalbg.gif" and place it inside of ```%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState```
 7. Done! Everything should be in working order now!
+
+# Copyright Notice
+Portal and Portal 2 are owned by Valve Corporation, with whom I have no connection.
