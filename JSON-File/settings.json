@@ -42,6 +42,7 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{064c26a6-f4ec-5e6d-954c-529fe9389a6e}",
+    "experimental.rendering.software": false,
     "profiles": 
     {
         "defaults": {},
