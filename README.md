@@ -1,6 +1,6 @@
 # ApertureTerminal
 Some settings to make your Windows-Terminal Portal 2 themed!
-The background is taken from Portal 2's files, and as I don't know about Valve's Copyright policies very well I've decided to not include the GIF on here unless I get granted permission to do that by Valve. 
+The background is taken from Portal 2's files, and as I don't know about Valve's Copyright policies very well I've decided to not include the GIF on here unless I get granted permission to do that by Valve. Feel free too look into the Issues tab to see if there's something you can contribute to.
 
 # Inspiration
 I made this based on the settings posted by reddit user [u/zushiba](https://reddit.com/u/zushiba "u/zushiba"), which were in turn based on those from user [u/runew0lf](https://reddit.com/u/runew0lf "u/runew0lf"). I'm a big Portal Fan myself so I couldn't pass this opportunity. [Here's my original Reddit Post](https://www.reddit.com/r/Windows10/comments/no7mg8/i_tried_to_make_my_windows_terminal_look_like/ "My Post").
