@@ -64,6 +64,11 @@ This goes into the Array ```"schemes": [```, don't delete any of the schemes in 
 ![image](https://user-images.githubusercontent.com/23218251/120101673-7eda3300-c147-11eb-8635-3a34ab491886.png)
 
 # How to obtain the animated background
+
+**Attention: Reddit user [u/R1chex](https://www.reddit.com/u/R1chex) has uploaded the GIF to Imgur, so you wouldn't have to convert it yourself: [Imgur](https://i.imgur.com/wqTuvbq.gif)**
+*I did not download this and am not responsible for the copyright of this GIF.*
+
+
 0. (Install Portal 2 if you haven't yet)
 1. Navigate to ```C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\media\sp_credits_bg.bik``` and copy this file to a convenient location.
 2. Open [Aconvert Video](https://www.aconvert.com/video/ "Aconvert Video") in a browser of your choice, and upload the file to the service.
