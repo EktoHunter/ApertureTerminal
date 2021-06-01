@@ -85,7 +85,7 @@ Video aspect: Do not change
 ```
 ![image](https://user-images.githubusercontent.com/23218251/120102548-d37fad00-c14b-11eb-8ee4-e94fb15bf3d5.png)
 5. Click "Convert Now!" and download the converted file.
-6. Rename the file to "p2terminalbg.gif" and place it inside of ```%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState```
+6. Rename the file to "p2terminalbg.gif" and place it inside ```%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState```
 7. Done! Everything should be in working order now!
 
 # Copyright Notice
