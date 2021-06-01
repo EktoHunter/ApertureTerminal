@@ -33,6 +33,8 @@ This goes into the Array ```"list": [```, don't delete any of the profiles in th
                 "padding": "40, 24, 24, 24",
             },
 ```
+**If the console's text is not aligned with the box inside correctly, make sure to change the *Padding* values to fit to your screen.**
+
 This goes into the Array ```"schemes": [```, don't delete any of the schemes in there, just paste this in front of the other schemes.
 ```
         {
