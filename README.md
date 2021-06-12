@@ -8,6 +8,7 @@ I made this based on the settings posted by reddit user [u/zushiba](https://redd
 # How to install:
 0. (Install the Windows Terminal from the Microsoft Store if you haven't yet!)
 1. Download the Image Files from this repository *(you do not need the files inside of the "Original" Folder, check out that for the original theme that this is based on)*, and move them to ```%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState```
+*User [evaldasmix has uploaded some alternative Icons to use under this link!](https://imgur.com/a/I52CH5U "Imgur")*
 2. To obtain the GIF for the background, refer to the section **How to obtain the animated background**
 3. Open the Windows terminal and open the settings menu by either pressing <kbd>CTRL</kbd> and <kbd>,</kbd> or by pressing the little drop-down menu next to the tab and selecting "Settings".
 4. Press the "Open JSON-File" button in the bottom right of the settings Panel, and open it with an editor of your choice *(Alternatively, I have uploaded my own JSON-File if you would like to skip the work of pasting this in yourself)*.
